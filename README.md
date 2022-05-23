@@ -24,7 +24,7 @@
 
 ## Overview
 
-![screenshot](https://ibb.co/vkm2F1J)
+![screenshot](https://github.com/halilkaran/admin_site/blob/master/media/a.png?raw=true)
 
 ### Built With
 
