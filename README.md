@@ -24,7 +24,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/halilkaran/admin_site/blob/master/media/a.png?raw=true)
+![S](https://user-images.githubusercontent.com/78084765/169799779-7cc13537-0377-41b2-ac5a-f0530f182b90.png)
+
 
 ### Built With
 
